@@ -2,9 +2,10 @@
 # fooda
 
 A food app, sell meals, drinks, salad, and snaks.
-In this app, which i a full design, I used Provider, GridView, TabBar, cleanArchitecture.
+In this app, which iS a full design, I used Provider, GridView, TabBar, cleanArchitecture.
 
 ## Images
+![9](https://user-images.githubusercontent.com/93387228/185818204-feeaa2d4-f089-4c37-91ad-b023aca09d48.png)
 ![Screenshot_1660968358](https://user-images.githubusercontent.com/93387228/185728516-9cd2784d-1878-4e08-85d0-68493d2a8a39.png)
 ![Screenshot_1660968364](https://user-images.githubusercontent.com/93387228/185728521-3dd6c6aa-edbc-4083-a76a-e655e06204c1.png)
 ![Screenshot_1660968370](https://user-images.githubusercontent.com/93387228/185728527-67bc92e0-6438-472d-bd8c-f4fafd6339e2.png)
